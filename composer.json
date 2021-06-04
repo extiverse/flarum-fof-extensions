@@ -1,0 +1,23 @@
+{
+    "name": "extiverse/fof-extensions",
+    "description": "All Friends of Flarum extensions.",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "v1.0.1",
+        "fof/clockwork": "*",
+        "fof/taxonomies": "*",
+        "fof/oauth": "*",
+        "fof/discussion-language": "*",
+        "fof/realtimelogin": "*",
+        "fof/realtimedate": "*",
+        "fof/moderator-notes": "*",
+        "fof/filter": "*",
+        "fof/forum-statistics-widget": "*",
+        "fof/github-sponsors": "*",
+        "fof/discussion-thumbnail": "*",
+        "fof/best-answer": "*",
+        "fof/github-autolink": "*",
+        "fof/geoip": "*",
+        "fof/bbcode-tabs": "*"
+    }
+}
