@@ -3,7 +3,7 @@
     "description": "All Friends of Flarum extensions.",
     "license": "MIT",
     "require": {
-        "flarum/core": "v1.0.2",
+        "flarum/core": "v1.0.4",
         "fof/clockwork": "*",
         "fof/taxonomies": "*",
         "fof/oauth": "*",
