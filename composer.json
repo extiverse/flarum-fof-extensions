@@ -21,7 +21,6 @@
         "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/frontpage": "*",
-        "fof/gamification": "*",
         "fof/geoip": "*",
         "fof/github-autolink": "*",
         "fof/github-sponsors": "*",
