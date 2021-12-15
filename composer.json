@@ -36,6 +36,7 @@
         "fof/linguist": "*",
         "fof/links": "*",
         "fof/mason": "*",
+        "fof/masquerade": "*",
         "fof/merge-discussions": "*",
         "fof/moderator-notes": "*",
         "fof/nightmode": "*",
