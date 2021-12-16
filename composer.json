@@ -36,6 +36,7 @@
         "fof/linguist": "*",
         "fof/links": "*",
         "fof/mason": "*",
+        "fof/masquerade": "*",
         "fof/merge-discussions": "*",
         "fof/moderator-notes": "*",
         "fof/nightmode": "*",
@@ -63,7 +64,9 @@
         "fof/subscribed": "*",
         "fof/taxonomies": "*",
         "fof/terms": "*",
+        "fof/upload": "*",
         "fof/user-bio": "*",
+        "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
     }
