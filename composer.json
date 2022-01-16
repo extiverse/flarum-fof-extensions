@@ -39,6 +39,7 @@
         "fof/masquerade": "*",
         "fof/merge-discussions": "*",
         "fof/moderator-notes": "*",
+        "fof/nightmode": "*",
         "fof/oauth": "*",
         "fof/open-collective": "*",
         "fof/pages": "*",
@@ -65,6 +66,7 @@
         "fof/terms": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
+        "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
     }
