@@ -5,7 +5,6 @@
     "require": {
         "flarum/core": "^v1.2.0",
         "fof/analytics": "*",
-        "fof/ban-ips": "*",
         "fof/bbcode-details": "*",
         "fof/best-answer": "*",
         "fof/byobu": "*",
