@@ -10,6 +10,7 @@
         "fof/bbcode-details": "*",
         "fof/bbcode-tabs": "*",
         "fof/best-answer": "*",
+        "fof/byobu": "*",
         "fof/clockwork": "*",
         "fof/cookie-consent": "*",
         "fof/custom-footer": "*",
@@ -43,6 +44,7 @@
         "fof/open-collective": "*",
         "fof/pages": "*",
         "fof/passport": "*",
+        "fof/polls": "*",
         "fof/pretty-mail": "*",
         "fof/prevent-necrobumping": "*",
         "fof/profile-image-crop": "*",
@@ -65,6 +67,7 @@
         "fof/upload": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
-        "fof/username-request": "*"
+        "fof/username-request": "*",
+        "fof/webhooks": "*"
     }
 }
