@@ -11,7 +11,6 @@
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/clockwork": "*",
-        "fof/cookie-consent": "*",
         "fof/custom-footer": "*",
         "fof/default-group": "*",
         "fof/default-user-preferences": "*",
@@ -34,7 +33,6 @@
         "fof/linguist": "*",
         "fof/links": "*",
         "fof/mason": "*",
-        "fof/masquerade": "*",
         "fof/merge-discussions": "*",
         "fof/moderator-notes": "*",
         "fof/nightmode": "*",
@@ -54,14 +52,11 @@
         "fof/share-social": "*",
         "fof/sitemap": "*",
         "fof/socialprofile": "*",
-        "fof/spamblock": "*",
         "fof/stopforumspam": "*",
         "fof/subscribed": "*",
         "fof/terms": "*",
         "fof/upload": "*",
-        "fof/user-bio": "*",
         "fof/user-directory": "*",
-        "fof/username-request": "*",
-        "fof/webhooks": "*"
+        "fof/username-request": "*"
     }
 }
