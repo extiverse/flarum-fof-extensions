@@ -19,6 +19,7 @@
         "fof/discussion-language": "*",
         "fof/discussion-thumbnail": "*",
         "fof/disposable-emails": "*",
+        "fof/doorman": "*",
         "fof/drafts": "*",
         "fof/filter": "*",
         "fof/follow-tags": "*",
