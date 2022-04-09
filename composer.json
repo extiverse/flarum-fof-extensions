@@ -48,7 +48,6 @@
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
-        "fof/sentry": "*",
         "fof/share-social": "*",
         "fof/sitemap": "*",
         "fof/socialprofile": "*",
@@ -56,7 +55,6 @@
         "fof/subscribed": "*",
         "fof/terms": "*",
         "fof/upload": "*",
-        "fof/user-directory": "*",
         "fof/username-request": "*"
     }
 }
