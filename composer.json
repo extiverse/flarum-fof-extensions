@@ -61,7 +61,6 @@
         "fof/stopforumspam": "*",
         "fof/subscribed": "*",
         "fof/terms": "*",
-        "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
     }
