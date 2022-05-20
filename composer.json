@@ -54,7 +54,6 @@
         "fof/secure-https": "*",
         "fof/share-social": "*",
         "fof/sitemap": "*",
-        "fof/socialprofile": "*",
         "fof/spamblock": "*",
         "fof/split": "*",
         "fof/stopforumspam": "*",
