@@ -14,7 +14,6 @@
         "fof/clockwork": "*",
         "fof/cookie-consent": "*",
         "fof/custom-footer": "*",
-        "fof/default-group": "*",
         "fof/default-user-preferences": "*",
         "fof/discussion-language": "*",
         "fof/discussion-thumbnail": "*",
@@ -63,7 +62,6 @@
         "fof/stopforumspam": "*",
         "fof/subscribed": "*",
         "fof/terms": "*",
-        "fof/user-bio": "*",
         "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
