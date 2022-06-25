@@ -4,9 +4,11 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.3.1",
+        "fof/amazon-affiliation": "*",
         "fof/analytics": "*",
         "fof/ban-ips": "*",
         "fof/bbcode-details": "*",
+        "fof/bbcode-tabs": "*",
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/clockwork": "*",
@@ -25,6 +27,7 @@
         "fof/forum-statistics-widget": "*",
         "fof/frontpage": "*",
         "fof/gamification": "*",
+        "fof/geoip": "*",
         "fof/github-autolink": "*",
         "fof/github-sponsors": "*",
         "fof/html-errors": "*",
@@ -60,8 +63,10 @@
         "fof/stopforumspam": "*",
         "fof/subscribed": "*",
         "fof/terms": "*",
+        "fof/upload": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
+        "fof/username-request": "*",
         "fof/webhooks": "*"
     }
 }
