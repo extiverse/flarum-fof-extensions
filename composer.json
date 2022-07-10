@@ -6,7 +6,6 @@
         "flarum/core": "^v1.3.1",
         "fof/amazon-affiliation": "*",
         "fof/analytics": "*",
-        "fof/ban-ips": "*",
         "fof/bbcode-details": "*",
         "fof/bbcode-tabs": "*",
         "fof/best-answer": "*",
