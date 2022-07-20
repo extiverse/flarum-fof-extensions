@@ -47,7 +47,6 @@
         "fof/pretty-mail": "*",
         "fof/prevent-necrobumping": "*",
         "fof/profile-image-crop": "*",
-        "fof/pwned-passwords": "*",
         "fof/reactions": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
@@ -62,7 +61,6 @@
         "fof/subscribed": "*",
         "fof/terms": "*",
         "fof/user-bio": "*",
-        "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
     }
