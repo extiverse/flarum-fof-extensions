@@ -4,7 +4,6 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.4.0",
-        "fof/amazon-affiliation": "*",
         "fof/analytics": "*",
         "fof/ban-ips": "*",
         "fof/bbcode-details": "*",
@@ -59,7 +58,6 @@
         "fof/subscribed": "*",
         "fof/terms": "*",
         "fof/user-bio": "*",
-        "fof/username-request": "*",
         "fof/webhooks": "*"
     }
 }
