@@ -6,7 +6,6 @@
         "flarum/core": "^v1.4.0",
         "fof/analytics": "*",
         "fof/bbcode-details": "*",
-        "fof/best-answer": "*",
         "fof/clockwork": "*",
         "fof/custom-footer": "*",
         "fof/default-user-preferences": "*",
@@ -16,7 +15,6 @@
         "fof/doorman": "*",
         "fof/drafts": "*",
         "fof/filter": "*",
-        "fof/formatting": "*",
         "fof/frontpage": "*",
         "fof/geoip": "*",
         "fof/github-autolink": "*",
@@ -42,7 +40,6 @@
         "fof/socialprofile": "*",
         "fof/split": "*",
         "fof/stopforumspam": "*",
-        "fof/subscribed": "*",
         "fof/terms": "*",
         "fof/user-bio": "*",
         "fof/webhooks": "*"
