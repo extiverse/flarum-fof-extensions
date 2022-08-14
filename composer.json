@@ -58,7 +58,6 @@
         "fof/sitemap": "*",
         "fof/socialprofile": "*",
         "fof/spamblock": "*",
-        "fof/split": "*",
         "fof/stopforumspam": "*",
         "fof/subscribed": "*",
         "fof/terms": "*",
