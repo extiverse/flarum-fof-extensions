@@ -5,6 +5,7 @@
     "require": {
         "flarum/core": "^v1.4.1",
         "fof/amazon-affiliation": "*",
+        "fof/analytics": "*",
         "fof/ban-ips": "*",
         "fof/bbcode-details": "*",
         "fof/bbcode-tabs": "*",
@@ -47,6 +48,7 @@
         "fof/pretty-mail": "*",
         "fof/prevent-necrobumping": "*",
         "fof/profile-image-crop": "*",
+        "fof/pwned-passwords": "*",
         "fof/reactions": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
