@@ -54,6 +54,7 @@
         "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
         "fof/secure-https": "*",
+        "fof/sentry": "*",
         "fof/share-social": "*",
         "fof/sitemap": "*",
         "fof/socialprofile": "*",
