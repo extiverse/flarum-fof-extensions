@@ -5,6 +5,7 @@
     "require": {
         "flarum/core": "^v1.5.0",
         "fof/amazon-affiliation": "*",
+        "fof/analytics": "*",
         "fof/ban-ips": "*",
         "fof/bbcode-details": "*",
         "fof/bbcode-tabs": "*",
