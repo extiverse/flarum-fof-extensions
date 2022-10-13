@@ -26,6 +26,7 @@
         "fof/formatting": "*",
         "fof/forum-statistics-widget": "*",
         "fof/frontpage": "*",
+        "fof/gamification": "*",
         "fof/geoip": "*",
         "fof/github-autolink": "*",
         "fof/github-sponsors": "*",
@@ -48,6 +49,7 @@
         "fof/prevent-necrobumping": "*",
         "fof/profile-image-crop": "*",
         "fof/pwned-passwords": "*",
+        "fof/reactions": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
@@ -64,6 +66,7 @@
         "fof/upload": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
-        "fof/username-request": "*"
+        "fof/username-request": "*",
+        "fof/webhooks": "*"
     }
 }
