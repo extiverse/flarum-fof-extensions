@@ -33,6 +33,7 @@
         "fof/html-errors": "*",
         "fof/ignore-users": "*",
         "fof/impersonate": "*",
+        "fof/linguist": "*",
         "fof/links": "*",
         "fof/mason": "*",
         "fof/masquerade": "*",
