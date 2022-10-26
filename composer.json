@@ -16,6 +16,7 @@
         "fof/custom-footer": "*",
         "fof/default-group": "*",
         "fof/default-user-preferences": "*",
+        "fof/discussion-language": "*",
         "fof/discussion-thumbnail": "*",
         "fof/disposable-emails": "*",
         "fof/doorman": "*",
@@ -25,6 +26,7 @@
         "fof/formatting": "*",
         "fof/forum-statistics-widget": "*",
         "fof/frontpage": "*",
+        "fof/gamification": "*",
         "fof/geoip": "*",
         "fof/github-autolink": "*",
         "fof/github-sponsors": "*",
@@ -63,6 +65,7 @@
         "fof/terms": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
+        "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
     }
