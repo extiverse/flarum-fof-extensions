@@ -47,7 +47,6 @@
         "fof/polls": "*",
         "fof/pretty-mail": "*",
         "fof/prevent-necrobumping": "*",
-        "fof/profile-image-crop": "*",
         "fof/pwned-passwords": "*",
         "fof/reactions": "*",
         "fof/realtimedate": "*",
