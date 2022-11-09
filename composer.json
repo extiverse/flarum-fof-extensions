@@ -14,7 +14,6 @@
         "fof/clockwork": "*",
         "fof/cookie-consent": "*",
         "fof/custom-footer": "*",
-        "fof/default-user-preferences": "*",
         "fof/discussion-language": "*",
         "fof/discussion-thumbnail": "*",
         "fof/disposable-emails": "*",
@@ -32,7 +31,6 @@
         "fof/merge-discussions": "*",
         "fof/nightmode": "*",
         "fof/oauth": "*",
-        "fof/open-collective": "*",
         "fof/pages": "*",
         "fof/passport": "*",
         "fof/pretty-mail": "*",
@@ -44,11 +42,9 @@
         "fof/realtimelogin": "*",
         "fof/secure-https": "*",
         "fof/share-social": "*",
-        "fof/sitemap": "*",
         "fof/spamblock": "*",
         "fof/split": "*",
         "fof/stopforumspam": "*",
-        "fof/terms": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
     }
