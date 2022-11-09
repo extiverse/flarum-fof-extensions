@@ -19,7 +19,6 @@
         "fof/discussion-thumbnail": "*",
         "fof/disposable-emails": "*",
         "fof/filter": "*",
-        "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/forum-statistics-widget": "*",
         "fof/frontpage": "*",
@@ -50,7 +49,6 @@
         "fof/split": "*",
         "fof/stopforumspam": "*",
         "fof/terms": "*",
-        "fof/upload": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
     }
