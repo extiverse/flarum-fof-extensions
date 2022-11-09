@@ -49,7 +49,6 @@
         "fof/reactions": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
-        "fof/recaptcha": "*",
         "fof/secure-https": "*",
         "fof/sentry": "*",
         "fof/share-social": "*",
