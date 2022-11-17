@@ -28,7 +28,6 @@
         "fof/oauth": "*",
         "fof/pages": "*",
         "fof/passport": "*",
-        "fof/pretty-mail": "*",
         "fof/profile-image-crop": "*",
         "fof/reactions": "*",
         "fof/realtimedate": "*",
