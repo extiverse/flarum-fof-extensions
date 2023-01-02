@@ -1,12 +1,6 @@
 {
     "name": "extiverse/fof-extensions",
     "description": "All Friends of Flarum extensions.",
-    "keywords": [
-        "fof",
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.6.2",
@@ -40,6 +34,7 @@
         "fof/ignore-users": "*",
         "fof/impersonate": "*",
         "fof/linguist": "*",
+        "fof/links": "*",
         "fof/mason": "*",
         "fof/masquerade": "*",
         "fof/merge-discussions": "*",
@@ -55,6 +50,8 @@
         "fof/profile-image-crop": "*",
         "fof/pwned-passwords": "*",
         "fof/reactions": "*",
+        "fof/realtimedate": "*",
+        "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
         "fof/secure-https": "*",
         "fof/sentry": "*",
