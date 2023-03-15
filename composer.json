@@ -1,22 +1,13 @@
 {
     "name": "extiverse/fof-extensions",
     "description": "All Friends of Flarum extensions.",
-    "keywords": [
-        "fof",
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.7.1",
-        "fof/byobu": "*",
         "fof/clockwork": "*",
         "fof/disposable-emails": "*",
         "fof/github-autolink": "*",
-        "fof/nightmode": "*",
         "fof/realtimedate": "*",
-        "fof/realtimelogin": "*",
-        "fof/stopforumspam": "*"
+        "fof/realtimelogin": "*"
     }
 }
