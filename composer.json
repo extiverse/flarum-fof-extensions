@@ -1,45 +1,21 @@
 {
     "name": "extiverse/fof-extensions",
     "description": "All Friends of Flarum extensions.",
-    "keywords": [
-        "fof",
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.7.1",
         "fof/amazon-affiliation": "*",
-        "fof/ban-ips": "*",
-        "fof/bbcode-tabs": "*",
-        "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/clockwork": "*",
-        "fof/cookie-consent": "*",
         "fof/custom-footer": "*",
-        "fof/default-group": "*",
-        "fof/discussion-language": "*",
         "fof/disposable-emails": "*",
-        "fof/doorman": "*",
-        "fof/follow-tags": "*",
-        "fof/formatting": "*",
         "fof/forum-statistics-widget": "*",
         "fof/github-autolink": "*",
         "fof/github-sponsors": "*",
-        "fof/merge-discussions": "*",
         "fof/nightmode": "*",
-        "fof/oauth": "*",
-        "fof/pages": "*",
         "fof/passport": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
-        "fof/recaptcha": "*",
-        "fof/sentry": "*",
-        "fof/share-social": "*",
-        "fof/stopforumspam": "*",
-        "fof/subscribed": "*",
-        "fof/upload": "*",
-        "fof/user-directory": "*"
+        "fof/stopforumspam": "*"
     }
 }
