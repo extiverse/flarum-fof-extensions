@@ -1,15 +1,9 @@
 {
     "name": "extiverse/fof-extensions",
     "description": "All Friends of Flarum extensions.",
-    "keywords": [
-        "fof",
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
-        "flarum/core": "^v1.7.2",
+        "flarum/core": "^v1.8.0",
         "fof/amazon-affiliation": "*",
         "fof/analytics": "*",
         "fof/ban-ips": "*",
