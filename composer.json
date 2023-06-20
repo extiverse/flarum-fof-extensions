@@ -1,12 +1,6 @@
 {
     "name": "extiverse/fof-extensions",
     "description": "All Friends of Flarum extensions.",
-    "keywords": [
-        "fof",
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.8.1",
@@ -28,6 +22,7 @@
         "fof/doorman": "*",
         "fof/drafts": "*",
         "fof/filter": "*",
+        "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/forum-statistics-widget": "*",
         "fof/frontpage": "*",
@@ -45,9 +40,11 @@
         "fof/merge-discussions": "*",
         "fof/moderator-notes": "*",
         "fof/nightmode": "*",
+        "fof/oauth": "*",
         "fof/open-collective": "*",
         "fof/pages": "*",
         "fof/passport": "*",
+        "fof/polls": "*",
         "fof/pretty-mail": "*",
         "fof/prevent-necrobumping": "*",
         "fof/profile-image-crop": "*",
