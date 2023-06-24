@@ -1,12 +1,6 @@
 {
     "name": "extiverse/fof-extensions",
     "description": "All Friends of Flarum extensions.",
-    "keywords": [
-        "fof",
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.8.1",
@@ -15,7 +9,6 @@
         "fof/ban-ips": "*",
         "fof/bbcode-details": "*",
         "fof/bbcode-tabs": "*",
-        "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/clockwork": "*",
         "fof/cookie-consent": "*",
@@ -46,6 +39,7 @@
         "fof/merge-discussions": "*",
         "fof/moderator-notes": "*",
         "fof/nightmode": "*",
+        "fof/oauth": "*",
         "fof/open-collective": "*",
         "fof/pages": "*",
         "fof/passport": "*",
