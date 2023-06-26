@@ -9,6 +9,7 @@
         "fof/ban-ips": "*",
         "fof/bbcode-details": "*",
         "fof/bbcode-tabs": "*",
+        "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/clockwork": "*",
         "fof/cookie-consent": "*",
@@ -53,6 +54,7 @@
         "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
         "fof/secure-https": "*",
+        "fof/sentry": "*",
         "fof/share-social": "*",
         "fof/sitemap": "*",
         "fof/socialprofile": "*",
@@ -62,6 +64,7 @@
         "fof/subscribed": "*",
         "fof/terms": "*",
         "fof/upload": "*",
+        "fof/user-bio": "*",
         "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
