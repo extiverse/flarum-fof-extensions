@@ -38,7 +38,6 @@
         "fof/split": "*",
         "fof/stopforumspam": "*",
         "fof/upload": "*",
-        "fof/username-request": "*",
         "fof/webhooks": "*"
     }
 }
