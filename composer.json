@@ -6,7 +6,6 @@
         "flarum/core": "^v1.8.1",
         "fof/amazon-affiliation": "*",
         "fof/analytics": "*",
-        "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/clockwork": "*",
         "fof/disposable-emails": "*",
