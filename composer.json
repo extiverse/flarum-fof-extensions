@@ -10,7 +10,6 @@
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/clockwork": "*",
-        "fof/default-group": "*",
         "fof/default-user-preferences": "*",
         "fof/discussion-thumbnail": "*",
         "fof/disposable-emails": "*",
@@ -26,11 +25,9 @@
         "fof/github-sponsors": "*",
         "fof/ignore-users": "*",
         "fof/impersonate": "*",
-        "fof/links": "*",
         "fof/mason": "*",
         "fof/masquerade": "*",
         "fof/merge-discussions": "*",
-        "fof/moderator-notes": "*",
         "fof/nightmode": "*",
         "fof/open-collective": "*",
         "fof/pages": "*",
@@ -52,8 +49,6 @@
         "fof/split": "*",
         "fof/stopforumspam": "*",
         "fof/upload": "*",
-        "fof/user-bio": "*",
-        "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
     }
