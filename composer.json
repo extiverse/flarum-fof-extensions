@@ -51,6 +51,7 @@
         "fof/pwned-passwords": "*",
         "fof/reactions": "*",
         "fof/realtimedate": "*",
+        "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
         "fof/secure-https": "*",
         "fof/sentry": "*",
