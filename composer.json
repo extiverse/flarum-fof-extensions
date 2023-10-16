@@ -66,6 +66,7 @@
         "fof/upload": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
-        "fof/username-request": "*"
+        "fof/username-request": "*",
+        "fof/webhooks": "*"
     }
 }
