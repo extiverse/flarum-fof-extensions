@@ -34,7 +34,6 @@
         "fof/linguist": "*",
         "fof/mason": "*",
         "fof/masquerade": "*",
-        "fof/moderator-notes": "*",
         "fof/nightmode": "*",
         "fof/oauth": "*",
         "fof/open-collective": "*",
@@ -57,8 +56,6 @@
         "fof/stopforumspam": "*",
         "fof/subscribed": "*",
         "fof/terms": "*",
-        "fof/user-bio": "*",
-        "fof/user-directory": "*",
         "fof/webhooks": "*"
     }
 }
