@@ -13,7 +13,6 @@
         "fof/gamification": "*",
         "fof/geoip": "*",
         "fof/github-autolink": "*",
-        "fof/links": "*",
         "fof/mason": "*",
         "fof/merge-discussions": "*",
         "fof/moderator-notes": "*",
@@ -28,7 +27,6 @@
         "fof/terms": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
-        "fof/username-request": "*",
-        "fof/webhooks": "*"
+        "fof/username-request": "*"
     }
 }
