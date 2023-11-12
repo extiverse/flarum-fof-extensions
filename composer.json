@@ -8,19 +8,15 @@
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/discussion-language": "*",
-        "fof/drafts": "*",
         "fof/follow-tags": "*",
         "fof/gamification": "*",
         "fof/geoip": "*",
-        "fof/github-autolink": "*",
         "fof/merge-discussions": "*",
         "fof/open-collective": "*",
         "fof/profile-image-crop": "*",
         "fof/reactions": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
-        "fof/recaptcha": "*",
-        "fof/sitemap": "*",
         "fof/terms": "*"
     }
 }
