@@ -13,19 +13,14 @@
         "fof/gamification": "*",
         "fof/geoip": "*",
         "fof/github-autolink": "*",
-        "fof/mason": "*",
         "fof/merge-discussions": "*",
-        "fof/moderator-notes": "*",
         "fof/open-collective": "*",
         "fof/profile-image-crop": "*",
-        "fof/pwned-passwords": "*",
         "fof/reactions": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
         "fof/sitemap": "*",
-        "fof/terms": "*",
-        "fof/user-bio": "*",
-        "fof/user-directory": "*"
+        "fof/terms": "*"
     }
 }
