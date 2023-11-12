@@ -5,7 +5,6 @@
     "require": {
         "flarum/core": "^v1.8.3",
         "fof/ban-ips": "*",
-        "fof/bbcode-details": "*",
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/default-group": "*",
@@ -31,9 +30,7 @@
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
-        "fof/sentry": "*",
         "fof/sitemap": "*",
-        "fof/spamblock": "*",
         "fof/terms": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
