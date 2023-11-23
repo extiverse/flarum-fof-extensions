@@ -27,7 +27,6 @@
         "fof/forum-statistics-widget": "*",
         "fof/frontpage": "*",
         "fof/gamification": "*",
-        "fof/geoip": "*",
         "fof/github-autolink": "*",
         "fof/github-sponsors": "*",
         "fof/html-errors": "*",
