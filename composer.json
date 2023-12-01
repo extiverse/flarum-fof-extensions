@@ -61,7 +61,6 @@
         "fof/socialprofile": "*",
         "fof/split": "*",
         "fof/subscribed": "*",
-        "fof/terms": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
         "fof/username-request": "*",
