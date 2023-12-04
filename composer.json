@@ -61,7 +61,6 @@
         "fof/split": "*",
         "fof/subscribed": "*",
         "fof/terms": "*",
-        "fof/upload": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
         "fof/username-request": "*",
