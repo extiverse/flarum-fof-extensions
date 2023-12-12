@@ -16,17 +16,13 @@
         "fof/formatting": "*",
         "fof/forum-statistics-widget": "*",
         "fof/github-autolink": "*",
-        "fof/mason": "*",
         "fof/merge-discussions": "*",
         "fof/open-collective": "*",
         "fof/profile-image-crop": "*",
-        "fof/pwned-passwords": "*",
         "fof/reactions": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
-        "fof/recaptcha": "*",
         "fof/share-social": "*",
-        "fof/sitemap": "*",
         "fof/terms": "*",
         "fof/username-request": "*"
     }
