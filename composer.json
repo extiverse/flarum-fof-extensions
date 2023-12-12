@@ -32,7 +32,6 @@
         "fof/terms": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
-        "fof/username-request": "*",
-        "fof/webhooks": "*"
+        "fof/username-request": "*"
     }
 }
