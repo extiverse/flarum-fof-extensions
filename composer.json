@@ -18,7 +18,6 @@
         "fof/github-autolink": "*",
         "fof/mason": "*",
         "fof/merge-discussions": "*",
-        "fof/moderator-notes": "*",
         "fof/open-collective": "*",
         "fof/profile-image-crop": "*",
         "fof/pwned-passwords": "*",
@@ -29,8 +28,6 @@
         "fof/share-social": "*",
         "fof/sitemap": "*",
         "fof/terms": "*",
-        "fof/user-bio": "*",
-        "fof/user-directory": "*",
         "fof/username-request": "*"
     }
 }
