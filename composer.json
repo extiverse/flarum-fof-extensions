@@ -12,6 +12,7 @@
         "fof/bbcode-tabs": "*",
         "fof/best-answer": "*",
         "fof/byobu": "*",
+        "fof/clockwork": "*",
         "fof/cookie-consent": "*",
         "fof/custom-footer": "*",
         "fof/default-group": "*",
@@ -38,6 +39,7 @@
         "fof/mason": "*",
         "fof/masquerade": "*",
         "fof/merge-discussions": "*",
+        "fof/moderator-notes": "*",
         "fof/nightmode": "*",
         "fof/oauth": "*",
         "fof/open-collective": "*",
@@ -48,6 +50,7 @@
         "fof/prevent-necrobumping": "*",
         "fof/profile-image-crop": "*",
         "fof/pwned-passwords": "*",
+        "fof/reactions": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
@@ -59,8 +62,10 @@
         "fof/split": "*",
         "fof/subscribed": "*",
         "fof/terms": "*",
+        "fof/upload": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
+        "fof/username-request": "*",
         "fof/webhooks": "*"
     }
 }
