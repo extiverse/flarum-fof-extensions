@@ -3,7 +3,7 @@
     "description": "All Friends of Flarum extensions.",
     "license": "MIT",
     "require": {
-        "flarum/core": "^v1.8.4",
+        "flarum/core": "^v1.8.5",
         "fof/amazon-affiliation": "*",
         "fof/analytics": "*",
         "fof/anti-spam": "*",
