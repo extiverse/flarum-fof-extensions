@@ -50,6 +50,7 @@
         "fof/prevent-necrobumping": "*",
         "fof/profile-image-crop": "*",
         "fof/pwned-passwords": "*",
+        "fof/reactions": "*",
         "fof/realtimedate": "*",
         "fof/realtimelogin": "*",
         "fof/recaptcha": "*",
