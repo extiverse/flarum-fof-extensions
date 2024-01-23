@@ -17,6 +17,7 @@
         "fof/custom-footer": "*",
         "fof/default-group": "*",
         "fof/default-user-preferences": "*",
+        "fof/discussion-language": "*",
         "fof/discussion-thumbnail": "*",
         "fof/disposable-emails": "*",
         "fof/doorman": "*",
