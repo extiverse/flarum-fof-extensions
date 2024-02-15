@@ -44,7 +44,6 @@
         "fof/open-collective": "*",
         "fof/pages": "*",
         "fof/passport": "*",
-        "fof/polls": "*",
         "fof/pretty-mail": "*",
         "fof/prevent-necrobumping": "*",
         "fof/profile-image-crop": "*",
@@ -62,7 +61,6 @@
         "fof/subscribed": "*",
         "fof/terms": "*",
         "fof/upload": "*",
-        "fof/user-bio": "*",
         "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
