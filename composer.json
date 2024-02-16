@@ -13,6 +13,7 @@
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/clockwork": "*",
+        "fof/cookie-consent": "*",
         "fof/custom-footer": "*",
         "fof/default-group": "*",
         "fof/default-user-preferences": "*",
@@ -44,6 +45,7 @@
         "fof/open-collective": "*",
         "fof/pages": "*",
         "fof/passport": "*",
+        "fof/polls": "*",
         "fof/pretty-mail": "*",
         "fof/prevent-necrobumping": "*",
         "fof/profile-image-crop": "*",
@@ -61,6 +63,7 @@
         "fof/subscribed": "*",
         "fof/terms": "*",
         "fof/upload": "*",
+        "fof/user-bio": "*",
         "fof/user-directory": "*",
         "fof/username-request": "*",
         "fof/webhooks": "*"
