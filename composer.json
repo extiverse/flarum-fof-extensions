@@ -18,7 +18,6 @@
         "fof/default-group": "*",
         "fof/default-user-preferences": "*",
         "fof/direct-links": "*",
-        "fof/discussion-language": "*",
         "fof/discussion-thumbnail": "*",
         "fof/disposable-emails": "*",
         "fof/doorman": "*",
